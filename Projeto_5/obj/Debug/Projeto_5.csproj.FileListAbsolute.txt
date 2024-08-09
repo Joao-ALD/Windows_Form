@@ -1,0 +1,10 @@
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\bin\Debug\Projeto_5.exe.config
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\bin\Debug\Projeto_5.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\bin\Debug\Projeto_5.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\obj\Debug\Projeto_5.csproj.AssemblyReference.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\obj\Debug\Projeto_5.Properties.Resources.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\obj\Debug\Projeto_5.csproj.GenerateResource.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\obj\Debug\Projeto_5.csproj.CoreCompileInputs.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\obj\Debug\Projeto_5.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\obj\Debug\Projeto_5.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_5\obj\Debug\Projeto_5.Calculadora.resources

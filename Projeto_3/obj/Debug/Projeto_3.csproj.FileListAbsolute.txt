@@ -1,0 +1,10 @@
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\bin\Debug\Projeto_3.exe.config
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\bin\Debug\Projeto_3.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\bin\Debug\Projeto_3.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\obj\Debug\Projeto_3.csproj.AssemblyReference.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\obj\Debug\Projeto_3.Form_calculadora_imc.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\obj\Debug\Projeto_3.Properties.Resources.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\obj\Debug\Projeto_3.csproj.GenerateResource.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\obj\Debug\Projeto_3.csproj.CoreCompileInputs.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\obj\Debug\Projeto_3.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_3\obj\Debug\Projeto_3.pdb

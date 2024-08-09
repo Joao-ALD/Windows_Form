@@ -1,0 +1,10 @@
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\bin\Debug\projeto_6.exe.config
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\bin\Debug\projeto_6.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\bin\Debug\projeto_6.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\obj\Debug\projeto_6.csproj.AssemblyReference.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\obj\Debug\projeto_6.Form1.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\obj\Debug\projeto_6.Properties.Resources.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\obj\Debug\projeto_6.csproj.GenerateResource.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\obj\Debug\projeto_6.csproj.CoreCompileInputs.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\obj\Debug\projeto_6.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\projeto_6\obj\Debug\projeto_6.pdb

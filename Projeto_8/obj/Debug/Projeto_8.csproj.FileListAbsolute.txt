@@ -1,0 +1,132 @@
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Projeto_8.exe.config
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Projeto_8.exe
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Projeto_8.pdb
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Google.Protobuf.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\MySql.Data.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Buffers.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.IO.Pipelines.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Memory.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\ZstdSharp.dll
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Google.Protobuf.pdb
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Google.Protobuf.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\MySql.Data.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Buffers.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.IO.Pipelines.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Memory.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.AssemblyReference.cache
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.br.com.projeto.VIEW.frmClientes.resources
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.Properties.Resources.resources
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.GenerateResource.cache
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.CoreCompileInputs.cache
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.Up2Date
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.exe
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.pdb
+C:\Users\cassio.mgomes\source\repos\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.br.com.projeto.VIEW.frmFuncionarios.resources
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Projeto_8.exe.config
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Projeto_8.exe
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Projeto_8.pdb
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\BouncyCastle.Cryptography.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Google.Protobuf.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.Streams.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\K4os.Hash.xxHash.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\MySql.Data.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Buffers.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Configuration.ConfigurationManager.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.IO.Pipelines.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Memory.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Numerics.Vectors.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Threading.Tasks.Extensions.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\ZstdSharp.dll
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\BouncyCastle.Cryptography.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Google.Protobuf.pdb
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Google.Protobuf.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\K4os.Compression.LZ4.Streams.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\K4os.Hash.xxHash.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\MySql.Data.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Buffers.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Configuration.ConfigurationManager.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.IO.Pipelines.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Memory.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Numerics.Vectors.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\bin\Debug\System.Threading.Tasks.Extensions.xml
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.AssemblyReference.cache
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.br.com.projeto.VIEW.frmClientes.resources
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.br.com.projeto.VIEW.frmFuncionarios.resources
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.Properties.Resources.resources
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.GenerateResource.cache
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.CoreCompileInputs.cache
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.csproj.Up2Date
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.exe
+T:\Publica\Cadu\00 - A23\ian\Windows_Forms\Projeto_8\obj\Debug\Projeto_8.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.csproj.AssemblyReference.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.br.com.projeto.VIEW.frmClientes.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.br.com.projeto.VIEW.frmFuncionarios.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.Properties.Resources.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.csproj.GenerateResource.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.csproj.CoreCompileInputs.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Projeto_8.exe.config
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Projeto_8.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Projeto_8.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\MySql.Data.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Buffers.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Memory.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\ZstdSharp.dll
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\MySql.Data.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Buffers.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Memory.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_8\obj\Debug\Projeto_8.csproj.CopyComplete

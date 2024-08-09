@@ -1,0 +1,10 @@
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\bin\Debug\Projeto_4.exe.config
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\bin\Debug\Projeto_4.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\bin\Debug\Projeto_4.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\obj\Debug\Projeto_4.csproj.AssemblyReference.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\obj\Debug\Projeto_4.Properties.Resources.resources
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\obj\Debug\Projeto_4.csproj.GenerateResource.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\obj\Debug\Projeto_4.csproj.CoreCompileInputs.cache
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\obj\Debug\Projeto_4.exe
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\obj\Debug\Projeto_4.pdb
+C:\Users\joao.valdomingues\source\repos\Windows_Form\Projeto_4\obj\Debug\Projeto_4.Form_reservaPassagem.resources
