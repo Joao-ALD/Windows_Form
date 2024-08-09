@@ -116,6 +116,7 @@
             this.btn_editar.TabIndex = 11;
             this.btn_editar.Text = "Editar";
             this.btn_editar.UseVisualStyleBackColor = false;
+            this.btn_editar.Click += new System.EventHandler(this.btn_editar_Click);
             // 
             // btn_excluir
             // 
@@ -129,6 +130,7 @@
             this.btn_excluir.TabIndex = 10;
             this.btn_excluir.Text = "Excluir";
             this.btn_excluir.UseVisualStyleBackColor = false;
+            this.btn_excluir.Click += new System.EventHandler(this.btn_excluir_Click);
             // 
             // btn_salvar
             // 
@@ -156,6 +158,7 @@
             this.btn_novo.TabIndex = 8;
             this.btn_novo.Text = "Novo";
             this.btn_novo.UseVisualStyleBackColor = false;
+            this.btn_novo.Click += new System.EventHandler(this.btn_novo_Click);
             // 
             // tab_funcionarios
             // 
@@ -596,6 +599,7 @@
             this.dg_consulta_funcionario.Name = "dg_consulta_funcionario";
             this.dg_consulta_funcionario.Size = new System.Drawing.Size(443, 230);
             this.dg_consulta_funcionario.TabIndex = 8;
+            this.dg_consulta_funcionario.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dg_consulta_funcionario_CellContentDoubleClick);
             // 
             // btn_pesquisar_consulta
             // 
